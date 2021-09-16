@@ -1,0 +1,12 @@
+body, html{
+		  height: 100%;
+		  background-color: #e0e8ed;
+		  font-family: 'Muli', sans-serif;
+		  overflow-x: hidden;
+		}
+footer{
+	position: fixed;
+	bottom: 0px;
+    background-color: #e0e8ed;
+    width: 100%;
+}
